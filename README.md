@@ -1,4 +1,4 @@
 # mod14challenge
 
 
-![<alt text>](/Images/Original Returns.png)
+![original chart](/Images/Original Returns.png)
