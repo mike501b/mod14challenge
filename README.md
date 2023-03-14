@@ -3,6 +3,7 @@
 This is the performance of the initial run with a 3 month training window and 4 and 100 SMA's.
 ![original chart](https://github.com/mike501b/mod14challenge/blob/main/Images/Original%20Returns.png)
 
+<<<<<<< HEAD
 
 This is the performance if the training window is increased to 6 months
 ![6 month window chart](https://github.com/mike501b/mod14challenge/blob/main/Images/Increased%20training%20window%20to%206%20months.png)
@@ -12,3 +13,6 @@ This is the performance if the training window is increased to 6 months and the 
 
 This is the performance of the Logistic Regression model using the original 3 month training window and 4 and 100 SMA's.
 ![6 month and 5 and 200 SMA Chart](https://github.com/mike501b/mod14challenge/blob/main/Images/Logistic%20Regression%20model.png)
+=======
+![original chart](https://github.com/mike501b/mod14challenge/blob/main/Images/Original%20Returns.png)
+>>>>>>> 8cf94185dd2e4ff909de7af7a6037073a486841a
